@@ -20,3 +20,7 @@ Once you've generated your QR code, simply click on the "Download QR code" butto
 #### What happens if I leave the input box empty
 
 If you leave the input box empty and try to generate a QR code, the text box will shake to indicate that it is a required field , Please make sure to enter text before generating your QR code.
+
+#### Is it responsive on mobile ?
+
+Yes this app is completely responsive .

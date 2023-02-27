@@ -4,7 +4,7 @@ QR Magic Generator
 
 ## Demo
 
-[QR Magic Generator]()
+[QR Magic Generator](https://zeeshanmukhtar1.github.io/QR-Magic-Generator/)
 
 ## 🔗 Links
 
